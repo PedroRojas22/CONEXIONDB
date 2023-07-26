@@ -1,0 +1,123 @@
+[
+    {
+        "id": "01",
+        "img": "https://s1.1zoom.me/big0/854/Fruit_Salads_Grapes_White_background_532015_1280x920.jpg",
+        "marca": "Ensalada basica",
+        "precio": 15
+    },
+    {
+        "id": "01",
+        "img": "https://media.istockphoto.com/id/168711814/es/foto/ensalada-de-frutas-frescas.jpg?s=612x612&w=0&k=20&c=kb3HRMbvlGRuCgcKlJaPsUPjM1bM6GS_xd0GgfkdKwI=",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://us.123rf.com/450wm/urfingus/urfingus1406/urfingus140600141/29785108-ensalada-de-fruta-en-llevar-la-copa-sobre-fondo-blanco.jpg?ver=6",
+        "marca": "Ensalada basica",
+        "precio": 15
+    },
+    {
+        "id": "01",
+        "img": "https://img.freepik.com/fotos-premium/ensalada-frutas-variedad-frutas-aisladas-sobre-fondo-blanco-ia-generativa_123447-10338.jpg?w=2000",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://www.sherry.wine/media/images/shutterstock_120699973.width-876.jpg",
+        "marca": "Ensalada basica",
+        "precio": 15
+    },
+    {
+        "id": "01",
+        "img": "https://gelateriacolonial.com/wp-content/uploads/2020/01/C_17.jpg",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://www.pngkit.com/png/detail/121-1213714_helado-de-frutas-ensalada-de-frutas-con-helado.png",
+        "marca": "Ensalada basica",
+        "precio": 15
+    },
+    {
+        "id": "01",
+        "img": "https://10619-2.s.cdn12.com/rests/original/107_512228331.jpg",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://kboom.com.co/wp-content/uploads/2019/07/ensalada-grande.png",
+        "marca": "Ensalada basica",
+        "precio": 15
+    },
+    {
+        "id": "01",
+        "img": "https://kboom.com.co/wp-content/uploads/2022/02/Ensalada-Grande.jpg",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://s1.1zoom.me/big0/854/Fruit_Salads_Grapes_White_background_532015_1280x920.jpg",
+        "marca": "Ensalada basica",
+        "precio": 15
+    },
+    {
+        "id": "01",
+        "img": "https://tofuu.getjusto.com/orioneat-prod/WCyAstFsfNZN9nGvX-Ensalada%20sensaci%C3%B3n.jpeg",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://publicaton.com/wp-content/uploads/2022/04/Ga4-ensaladapicolin.jpg",
+        "marca": "Ensalada basica",
+        "precio": 15
+    },
+    {
+        "id": "01",
+        "img": "https://fruterialapoderosa.com/wp-content/uploads/2018/05/super-poderosa-PNG-12.png",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://s1.1zoom.me/big0/854/Fruit_Salads_Grapes_White_background_532015_1280x920.jpg",
+        "marca": "Ensalada basica",
+        "precio": 15
+    },
+    {
+        "id": "01",
+        "img": "https://media.istockphoto.com/id/168711814/es/foto/ensalada-de-frutas-frescas.jpg?s=612x612&w=0&k=20&c=kb3HRMbvlGRuCgcKlJaPsUPjM1bM6GS_xd0GgfkdKwI=",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://media.istockphoto.com/id/168711814/es/foto/ensalada-de-frutas-frescas.jpg?s=612x612&w=0&k=20&c=kb3HRMbvlGRuCgcKlJaPsUPjM1bM6GS_xd0GgfkdKwI=",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://media.istockphoto.com/id/168711814/es/foto/ensalada-de-frutas-frescas.jpg?s=612x612&w=0&k=20&c=kb3HRMbvlGRuCgcKlJaPsUPjM1bM6GS_xd0GgfkdKwI=",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://media.istockphoto.com/id/168711814/es/foto/ensalada-de-frutas-frescas.jpg?s=612x612&w=0&k=20&c=kb3HRMbvlGRuCgcKlJaPsUPjM1bM6GS_xd0GgfkdKwI=",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    },
+    {
+        "id": "01",
+        "img": "https://media.istockphoto.com/id/168711814/es/foto/ensalada-de-frutas-frescas.jpg?s=612x612&w=0&k=20&c=kb3HRMbvlGRuCgcKlJaPsUPjM1bM6GS_xd0GgfkdKwI=",
+        "marca": "ensalada pequeña",
+        "precio": 8
+    }
+    
+]
